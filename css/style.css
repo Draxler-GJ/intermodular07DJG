@@ -1,6 +1,11 @@
 /*ESTILS MOLT SIMPLETS*/
 
-*{
+html{
     background: radial-gradient(crimson, darkred, orangered);
     text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    list-style: none;
 }
