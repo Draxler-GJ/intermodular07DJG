@@ -5,4 +5,4 @@
 1. Desplegament de Vercel
 2. Creació del Token
 3. Github Actions per a desplegat el codi del nostre repositori alli
-
+4. Fer un push a github
